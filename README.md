@@ -1,1 +1,3 @@
 # Amazon-EDA-Project-TV-Shows-Movies
+
+This project aims to analyze Amazon Prime's content library, focusing on the trends, quality, and popularity of its movies and TV shows. Using datasets containing metadata, IMDb and TMDB scores, and cast/crew information, we performed exploratory data analysis (EDA) to extract insights into content trends, audience preferences, and the most influential actors and directors. Various visualizations, including bar charts, scatter plots, and heatmaps, were created to uncover patterns in content distribution, genre preferences, and ratings. The analysis helps identify areas where Amazon Prime excels and where improvements can be made, offering valuable insights for content strategy and decision-making.
